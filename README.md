@@ -5,5 +5,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/492707412504215552"><img width="32px" alt="Discord" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://silky.lol"><img width="32px" alt="Discord" src="https://silky.lol/resources/bot.png"/></a>
 </p>
