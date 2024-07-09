@@ -6,10 +6,10 @@
 <br>
 <div align="center">
     <a href="https://github.com/Schuh1337?tab=followers" target="_blank">
-        <img src="https://img.shields.io/github/followers/Schuh1337?label=Follow&style=social" alt="GitHub Followers">
+        <img src="https://img.shields.io/github/followers/Schuh1337?label=Follow&style=social" alt="Followers">
     </a>
     <img src="https://komarev.com/ghpvc/?username=Schuh1337&color=blue" alt="Profile Views">
     <a href="https://github.com/Schuh1337?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/github/stars/Schuh1337?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars">
+        <img src="https://img.shields.io/github/stars/Schuh1337?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars">
     </a>
 </div>
