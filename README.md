@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-    <img src="https://img.shields.io/github/followers/Schuh1337?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/Schuh1337?label=Follow&style=flat" alt="GitHub Followers">
     <img src="https://komarev.com/ghpvc/?username=Schuh1337&color=blue" alt="Profile Views">
-    <img src="https://img.shields.io/github/stars/Schuh1337?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/Schuh1337?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="GitHub Stars">
 </div>
