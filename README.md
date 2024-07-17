@@ -5,7 +5,7 @@
 </div>
 <div align="center">
     <a>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=schuh1337&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak"
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=schuh1337&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     </a>
 </div>
 <br>
