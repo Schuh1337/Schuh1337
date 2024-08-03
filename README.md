@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
     <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
         <a href="https://gitroll.io/profile/uWZCkPJbzQWTprdO97yj8w9FaiER2" target="_blank">
-            <img src="https://gitroll.io/api/badges/profiles/v1/uWZCkPJbzQWTprdO97yj8w9FaiER2" alt="GitRoll" width="700" height="350"/>
+            <img src="https://gitroll.io/api/badges/profiles/v1/uWZCkPJbzQWTprdO97yj8w9FaiER2" alt="GitRoll" width="500" height="350"/>
         </a>
         <a>
             <img src="https://github-readme-streak-stats.herokuapp.com?user=schuh1337&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
