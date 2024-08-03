@@ -11,6 +11,7 @@
         </a>
     </div>
     
+<!-- Right Side: Spotify Embed -->
 <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <a href="#">
         <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ykc2ayrc9ii9oigdnc9chyn1i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile" />
@@ -24,4 +25,5 @@
     <img src="https://img.shields.io/github/followers/Schuh1337?label=Follow&style=flat" alt="Followers">
     <img src="https://komarev.com/ghpvc/?username=Schuh1337&color=blue" alt="Profile Views">
     <img src="https://img.shields.io/github/stars/Schuh1337?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="Stars">
+</div>
 </div>
