@@ -12,7 +12,7 @@
     </div>
     
 <!-- Right Side: Spotify Embed -->
-<div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+<div style="flex: 1; display: flex; justify-content: flex-end; align-items: center;">
     <a href="#">
         <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ykc2ayrc9ii9oigdnc9chyn1i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile" />
     </a>
