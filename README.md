@@ -1,5 +1,4 @@
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
-    <!-- Left Side: GitRoll and Streak Badge -->
     <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
         <a href="https://gitroll.io/profile/uWZCkPJbzQWTprdO97yj8w9FaiER2" target="_blank">
             <img src="https://gitroll.io/api/badges/profiles/v1/uWZCkPJbzQWTprdO97yj8w9FaiER2" alt="GitRoll" width="700" height="350"/>
@@ -9,17 +8,15 @@
         </a>
     </div>
     
-    <!-- Right Side: Spotify Profile Badge -->
-    <div style="flex: 1; display: flex; justify-content: center;">
-        <a>
-            <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ykc2ayrc9ii9oigdnc9chyn1i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile"/>
-        </a>
-    </div>
+<div style="flex: 1; display: flex; justify-content: center;">
+    <a>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ykc2ayrc9ii9oigdnc9chyn1i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile"/>
+    </a>
+</div>
 </div>
 
 <br>
 
-<!-- Additional Badges -->
 <div align="center">
     <img src="https://img.shields.io/github/followers/Schuh1337?label=Follow&style=flat" alt="Followers">
     <img src="https://komarev.com/ghpvc/?username=Schuh1337&color=blue" alt="Profile Views">
