@@ -5,9 +5,9 @@
     </a>
 </div>
 
-<!-- Align other images to the right -->
+<!-- Align other images to the right and adjust positioning -->
 <div align="right">
-    <a>
+    <a style="display: block; margin-bottom: -50px;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=schuh1337&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
     </a>
     <a>
