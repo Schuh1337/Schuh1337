@@ -8,6 +8,7 @@
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
+    <br/>
     <img src="https://img.shields.io/github/followers/Schuh1337?label=Follow&style=flat">
     <img src="https://komarev.com/ghpvc/?username=Schuh1337&color=blue">
     <img src="https://img.shields.io/github/stars/Schuh1337?affiliations=OWNER%2CCOLLABORATOR&style=flat">
