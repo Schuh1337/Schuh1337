@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schuh1337&theme=dark&show_icons=true&hide_border=true&layout=compact" width="428">
 
 <div>
-    <img src="https://img.shields.io/github/followers/Schuh1337?label=Follow&style=flat" style="margin-left: 10px; margin-top: -10px;" />
+    <img src="https://img.shields.io/github/followers/Schuh1337?label=Follow&style=flat" />
     <img src="https://komarev.com/ghpvc/?username=Schuh1337&color=blue"/>
     <img src="https://img.shields.io/github/stars/Schuh1337?affiliations=OWNER%2CCOLLABORATOR&style=flat"/>
 </div>
